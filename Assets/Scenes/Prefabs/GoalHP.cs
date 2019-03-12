@@ -13,7 +13,8 @@ public class GoalHP : MonoBehaviour
         {
             goalHP -= 1;
             print(goalHP);
-            other.gameObject.SetActive(false);
+            Destroy(other.gameObject);
+           //other.gameObject.SetActive(false);
 
         }
     }

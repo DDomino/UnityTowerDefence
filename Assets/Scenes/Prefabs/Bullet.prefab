@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 7734579640722135762}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -11.122576, y: 1.92, z: -1.4126065}
-  m_LocalScale: {x: 0.09603736, y: 0.09603736, z: 0.09603736}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -92,4 +92,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   impactEffect: {fileID: 318978774265055749, guid: 7db0543e10ca28640a000343b239d57f,
     type: 3}
-  speed: 10
+  speed: 50
